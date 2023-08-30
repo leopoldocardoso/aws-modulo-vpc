@@ -1,13 +1,16 @@
 <!-- BEGIN_TF_DOCS -->
+
+## Docs
+
+Um módulo é um contêiner para vários recursos usados juntos. Os módulos podem ser usados para criar abstrações leves, para que você possa descrever sua infraestrutura em termos de arquitetura, em vez de diretamente em termos de objetos físicos.
+
 ## Requirements
 
 | Name | Version |
 |------|---------|
 | <a name="requirement_aws"></a> [aws](#requirement\_aws) | 5.14.0 |
 
-## Providers
 
-No providers.
 
 ## Modules
 
