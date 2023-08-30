@@ -19,9 +19,6 @@ Utilizar módulos em nosso código Terraform faz com que possamos ter a reutiliz
 |------|--------|---------|
 | <a name="module_network"></a> [network](#module\_network) | ./network | n/a |
 
-## Resources
-
-No resources.
 
 ## Inputs
 
@@ -30,7 +27,5 @@ No resources.
 | <a name="input_region"></a> [region](#input\_region) | Região onde será criado os recursos da aws | `string` | `"us-east-1"` | no |
 | <a name="input_tag"></a> [tag](#input\_tag) | Tag individual dos recursos criados na aws | `string` | `"terraform"` | no |
 
-## Outputs
 
-No outputs.
 <!-- END_TF_DOCS -->
